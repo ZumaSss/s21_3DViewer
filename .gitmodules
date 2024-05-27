@@ -1,0 +1,3 @@
+[submodule "src/3DViewer/third_party/QtGifImage"]
+	path = src/3DViewer/third_party/QtGifImage
+	url = https://github.com/tonitaga/QtGifImage.git
